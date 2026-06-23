@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 import { compression } from "vite-plugin-compression2"
 
 export default defineConfig({
-  base: "/PortFolio/",
+  base: "/Portfolio/",
   plugins: [
     react({
       tsDecorators: true,
